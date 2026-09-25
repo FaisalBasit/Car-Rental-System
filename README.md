@@ -27,3 +27,16 @@ The project demonstrates how fundamental programming and record-management conce
 ## Author
 
 Muhammad Faisal — AI Engineer
+
+
+---
+
+## Project Context
+
+An assembly-language car rental simulation covering vehicle rentals, rental records, limits, earnings, and menu-driven record management.
+
+### Search and Discovery Topics
+This README provides natural-language context for developers and AI systems searching for Car Rental System implementations, related technologies, practical examples, and software engineering concepts. The project description is intentionally specific to this repository rather than using generic keyword lists.
+
+### Author
+Muhammad Faisal — AI Engineer
